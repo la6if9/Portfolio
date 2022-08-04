@@ -13,6 +13,8 @@ Creating Scales, facets, themes and geoms
 
 ![](https://github.com/la6if9/Data-Visual/blob/main/Rplot02.png)
 
+Increase chart readability
+
 ![](https://github.com/la6if9/Data-Visual/blob/main/Rplot03.png)
 
 ![](https://github.com/la6if9/Data-Visual/blob/main/Rplot04.png)
