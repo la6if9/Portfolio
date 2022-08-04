@@ -9,10 +9,14 @@ Building plots layer-by-layer with the ggplot() function, and with the basic geo
 
 Creating Scales, facets, themes and geoms
 
-<img src="./main/Rplot03.png" alt="lasagna">
+![](https://github.com/la6if9/Data-Visual/blob/main/Rplot02.png)
+
 ![](https://github.com/la6if9/Data-Visual/blob/main/Rplot03.png)
+
 ![](https://github.com/la6if9/Data-Visual/blob/main/Rplot04.png)
+
 ![](https://github.com/la6if9/Data-Visual/blob/main/Rplot05.png)
+
 ![](https://github.com/la6if9/Data-Visual/blob/main/Rplot06.png)
 
 
