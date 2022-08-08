@@ -14,7 +14,7 @@ Testing the models.
 3. [Feature space expansions](https://github.com/la6if9/Feature-space-expansions)
 Visualizing data, and fit polynomials, splines and regression trees.
 
-4. [SVM
+4. [Spam emails classification tool using SVM and trees](https://github.com/la6if9/Classification-with-trees)
 
 5. [Creating a pymetrics tool](https://github.com/la6if9/pymetrics-data)
 Classification of personalities
