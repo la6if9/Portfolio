@@ -23,9 +23,9 @@ Classification of personalities
 PCA method to analyze word frequencies of ten stopwords in novels by the three Brönthe sisters and Jane Austin.
 
 7. [Eigen faces](https://github.com/la6if9/Eigenfaces)
-summarize faces stereotype from 2410 pictures using PCA
+summarize faces stereotype from 2410 pictures using PCA.
 
 8. [Clustering](https://github.com/la6if9/Clustering) 
  - Analysis of wine data include 13 features of three different wine cultivars in Italy.
- - Clustering Animals and classification based on brain and body weights for 28 species of land animals
+ - Clustering Animals and classification based on brain and body weights for 28 species of land animals.
 
