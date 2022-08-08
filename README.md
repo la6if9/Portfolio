@@ -15,3 +15,11 @@ Testing the models.
 Visualizing data, and fit polynomials, splines and regression trees.
 
 4. [
+
+5. [Creating a pymetrics tool](https://github.com/la6if9/pymetrics-data)
+Classification of personalities
+
+6. [Text analysis in large dataset](https://github.com/la6if9/Text-analysis)
+PCA method to analyze word frequencies of ten stopwords in novels by the three Brönthe sisters and Jane Austin.
+
+
