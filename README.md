@@ -14,7 +14,7 @@ Testing the models.
 3. [Feature space expansions](https://github.com/la6if9/Feature-space-expansions)
 Visualizing data, and fit polynomials, splines and regression trees.
 
-4. [
+4. [SVM
 
 5. [Creating a pymetrics tool](https://github.com/la6if9/pymetrics-data)
 Classification of personalities
@@ -22,4 +22,9 @@ Classification of personalities
 6. [Text analysis in large dataset](https://github.com/la6if9/Text-analysis)
 PCA method to analyze word frequencies of ten stopwords in novels by the three Brönthe sisters and Jane Austin.
 
+7. [Faces
+
+8. [Clustering](https://github.com/la6if9/Clustering) 
+ - Analysis of wine data include 13 features of three different wine cultivars in Italy.
+ - Clustering Animals and classification based on brain and body weights for 28 species of land animals
 
